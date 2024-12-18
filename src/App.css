@@ -15,7 +15,7 @@ body {
 .app-container {
   text-align: center;
   padding: 20px;
-  max-width: 900px;
+  max-width: 1800px;
   margin: auto;
 }
 
@@ -103,3 +103,12 @@ h1 {
 .chain-card.harmony .create-button:hover {
   background-color: #008bb7;
 }
+
+.chain-card.binance .create-button {
+  background-color: #F3BA2F;
+}
+
+.chain-card.binance .create-button:hover {
+  background-color: #bd9b46;
+}
+
